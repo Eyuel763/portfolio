@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This ensures the background is dark by default */
+html {
+  background-color: #09090b; /* zinc-950 */
+}
