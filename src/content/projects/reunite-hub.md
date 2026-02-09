@@ -4,7 +4,7 @@ description: "A Django REST API for secure user registration and JWT‑based aut
 tags: ["Django", "DRF", "JWT", "React", "SQLite"]
 repoLink: "https://github.com/Eyuel763/Reunite_Hub"
 isFeatured: true
-mockups: ["/images/SocialMedia.png"]
+mockups: ["/images/Reuniteapi.jpg"]
 ---
 
 ### Overview
