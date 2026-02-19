@@ -1,5 +1,5 @@
 ---
-title: "SmartGuard IoT"
+title: "SmartHelmet IoT"
 description: "A Real-Time Industrial Safety Ecosystem for Worker Vital & Environmental Monitoring."
 tags: ["ESP32", "FreeRTOS", "WebSockets", "Flutter", "C++"]
 repoLink: "https://github.com/Eyuel763/smart_helmet_monitor"
